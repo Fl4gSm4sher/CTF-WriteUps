@@ -2,7 +2,7 @@
 Writeups to the challenges solved by [**`Fl4gSm4sher`**](https://ctftime.org/team/154733#.YJiTsdI3hpQ.link)
 
 
-### Writups for the latest ctf: [`San Diego CTF 2021`](https://sdc.tf/)
+### Writups for the Latest ctf: [`San Diego CTF 2021`](https://sdc.tf/)
 - [**OSINT**](San%20Diego%20CTF%202021/OSINT/)
   * [Speed Studying](San%20Diego%20CTF%202021/OSINT/Speed%20Studying/)
   * [Speed Studying 2](San%20Diego%20CTF%202021/OSINT/Speed%20Studying%202/)
