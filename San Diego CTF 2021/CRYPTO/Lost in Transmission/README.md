@@ -31,7 +31,10 @@ with open(dirname(__file__) + "/../flag.dat", "rb") as f:
 
 print(flag)
 ```
-**NOTE:** To download a file: 
+**NOTE:** To download challenge files: 
 ```bash
 curl -O <link-of-the-file>
 ```
+
+Writeup Author:
+~[CyberCitizen](https://ctftime.org/team/154733)
