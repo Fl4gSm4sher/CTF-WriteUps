@@ -1,10 +1,10 @@
 # A Prime Hash Candidate
 > We hired a fresh MATH 187A student to create our login for us. After 6 months of backbreaking development, we're no longer storing passwords as plain text. Just try to break in!<br>
-> Hash function : [server.py](https://raw.githubusercontent.com/CyberCitizen01/CTF-WriteUps/main/San%20Diego%20CTF%202021/CRYPTO/A%20Prime%20Hash%20Candidate/server.py)*<br>
+> Hash function : [server.py](https://raw.githubusercontent.com/Fl4gSm4sher/CTF-WriteUps/main/San%20Diego%20CTF%202021/CRYPTO/A%20Prime%20Hash%20Candidate/server.py)*<br>
 > Connect via: `nc phc1.sdc.tf 1337`
 
 ## Explanation
-[weak-hash.py](https://raw.githubusercontent.com/CyberCitizen01/CTF-WriteUps/main/San%20Diego%20CTF%202021/CRYPTO/A%20Prime%20Hash%20Candidate/weak-hash.py)*
+[weak-hash.py](https://raw.githubusercontent.com/Fl4gSm4sher/CTF-WriteUps/main/San%20Diego%20CTF%202021/CRYPTO/A%20Prime%20Hash%20Candidate/weak-hash.py)*
 ```py
 #!/usr/bin/python2
 
@@ -43,7 +43,7 @@ print(another_passwd_with_same_hash) ## use this password in nc to get the flag
 # by declaring "data" with this in the server.py script :)
 ```
 **NOTE:**
-- Run [server.py](https://raw.githubusercontent.com/CyberCitizen01/CTF-WriteUps/main/San%20Diego%20CTF%202021/CRYPTO/A%20Prime%20Hash%20Candidate/server.py) with `python3` whereas Run [weak-hash.py](https://raw.githubusercontent.com/CyberCitizen01/CTF-WriteUps/main/San%20Diego%20CTF%202021/CRYPTO/A%20Prime%20Hash%20Candidate/weak-hash.py) with `python2`
+- Run [server.py](https://raw.githubusercontent.com/Fl4gSm4sher/CTF-WriteUps/main/San%20Diego%20CTF%202021/CRYPTO/A%20Prime%20Hash%20Candidate/server.py) with `python3` whereas Run [weak-hash.py](https://raw.githubusercontent.com/Fl4gSm4sher/CTF-WriteUps/main/San%20Diego%20CTF%202021/CRYPTO/A%20Prime%20Hash%20Candidate/weak-hash.py) with `python2`
 > This is most probably due to different behaviour of `/` in `python2` and `python3` and compare:(
 
 - To download challenge files: 
