@@ -51,7 +51,7 @@ print(another_passwd_with_same_hash) ## use this password in nc to get the flag
 curl -O <link-of-the-file>
 ```
 Challenge solved by:<br>
-~[CyberCitizen01](https://ctftime.org/user/107482)
+~[ParallaxKnight](https://ctftime.org/user/106897)
 
 Writeup Author:<br>
 ~[CyberCitizen01](https://ctftime.org/user/107482)
