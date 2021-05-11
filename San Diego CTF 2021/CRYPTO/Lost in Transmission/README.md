@@ -1,7 +1,6 @@
 # Lost in Transmission
 `CRYPTO - EASY`
-> I had my friend send me the flag, but it seems a bit...off.
-
+> I had my friend send me the flag, but it seems a bit...off.<br>
 > Flag Message [flag.dat](https://github.com/Fl4gSm4sher/CTF-WriteUps/raw/main/San%20Diego%20CTF%202021/CRYPTO/Lost%20in%20Transmission/flag.dat)
 
 
@@ -35,6 +34,8 @@ print(flag)
 ```bash
 curl -O <link-of-the-file>
 ```
+Challenge Solved by:<br>
+~[CyberCitizen01](https://ctftime.org/user/107482)
 
-Writeup Author:
-~[CyberCitizen](https://ctftime.org/team/154733)
+Writeup Author:<br>
+~[CyberCitizen01](https://ctftime.org/user/107482)
