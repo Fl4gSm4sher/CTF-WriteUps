@@ -1,10 +1,10 @@
 # A Bowl of Pythons
 `REVENGE - EASY`
 > A bowl of spaghetti is nice. What about a bowl of pythons?<br>
-> [chal.py](chal.py)
+> [chal.py](https://raw.githubusercontent.com/Fl4gSm4sher/CTF-WriteUps/main/San%20Diego%20CTF%202021/REVENGE/A%20Bowl%20of%20Pythons/chal.py)
 
 ## Explanation
-[chall-sol.py](chall-sol.py)
+[chall-sol.py](https://raw.githubusercontent.com/Fl4gSm4sher/CTF-WriteUps/main/San%20Diego%20CTF%202021/REVENGE/A%20Bowl%20of%20Pythons/chal-sol.py)
 
 ```py
    1  #! /usr/bin/env python3
