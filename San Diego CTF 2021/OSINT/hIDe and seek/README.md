@@ -10,12 +10,12 @@ qFHIm0c.jpeg
  
 Challenge description reminds of incomplete links.
 
-The first link is pretty common. It is a youtube link and indeed it was...
-[**Youtube**](https://www.youtube.com/watch?v=hqXOIZtRYZU)
+The first link is pretty common. It is a youtube link and indeed it was...<br>
+[**Youtube Link**](https://www.youtube.com/watch?v=hqXOIZtRYZU)
 First Half Of The flag = sdctf{w0w_1_
 
-The second link needed a bit of research and then we got to know of imgur.
-[**Imgur**](https://imgur.com/qFHIm0c.jpeg)
+The second link needed a bit of research and then we got to know of imgur.<br>
+[**Imgur Link**](https://imgur.com/qFHIm0c.jpeg)
 Second Half Of The flag = h4d_n0_ID3a!}
 
 
