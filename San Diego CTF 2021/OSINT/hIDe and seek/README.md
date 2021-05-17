@@ -10,7 +10,7 @@ qFHIm0c.jpeg
  
 Challenge description reminds of incomplete links.
 
-The first link is preety common. It is a youtube link and indeed it was...
+The first link is pretty common. It is a youtube link and indeed it was...
 [**Youtube**](https://www.youtube.com/watch?v=hqXOIZtRYZU)
 First Half Of The flag = sdctf{w0w_1_
 
